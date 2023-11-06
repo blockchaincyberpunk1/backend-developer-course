@@ -1,0 +1,47 @@
+Role of Databases in Web Development
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will delve into the critical role that databases play in web development. You will gain an understanding of what databases are and how they store and retrieve data for web applications. Additionally, you will explore the key differences between relational databases and NoSQL databases, and you'll discuss their respective strengths and use cases.
+
+Instructions:
+Please complete the following tasks to demonstrate your understanding of databases in web development:
+
+Task 1: Understanding Databases (15 points)
+Define what a database is and explain its primary role in the context of web development:
+
+Provide a clear and concise definition of a database.
+Discuss why databases are essential for web applications.
+Explain the advantages of using databases over other data storage methods in web development.
+Task 2: Relational Databases vs. NoSQL Databases (25 points)
+Differentiate between relational databases and NoSQL databases, highlighting their strengths and use cases:
+
+Define relational databases and explain their core principles.
+Discuss the structure of relational databases, including tables, rows, and relationships.
+Provide examples of popular relational database management systems (DBMS).
+Define NoSQL databases and explain their core principles.
+Discuss the flexibility and schema-less nature of NoSQL databases.
+Provide examples of popular NoSQL database types (e.g., document-oriented, key-value, column-family, graph).
+Compare and contrast relational databases and NoSQL databases in terms of:
+Data modeling and schema.
+Scalability.
+Use cases (e.g., when to use each type of database).
+Examples of real-world applications that benefit from each type.
+Submission Guidelines:
+
+Write your responses in a clear and organized manner.
+Use proper grammar and spelling.
+Include relevant examples or references as needed to support your explanations.
+Submit your assignment as a PDF document or a Word document.
+Ensure your assignment is well-structured with clear headings for each task.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and depth of explanations (50 points)
+Clarity and organization of your responses (20 points)
+Inclusion of relevant examples or references (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (10 points)

@@ -1,0 +1,42 @@
+Syntax and Features
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will continue to explore your chosen server-side programming language. Your objective is to develop a deeper understanding of the language by providing a brief summary of its syntax rules and conventions. Additionally, you will describe at least three key features or libraries specific to the language that make it well-suited for web development.
+
+Instructions:
+Please complete the following tasks to delve deeper into your chosen server-side programming language:
+
+Task 1: Syntax Summary (25 points)
+Write a brief summary of the syntax rules and conventions for your chosen server-side programming language. This should include:
+
+An overview of basic syntax rules, such as variable declaration, function definition, and control structures (if, loops, etc.).
+Mention any notable syntax quirks or unique features that distinguish this language.
+Provide examples or code snippets to illustrate syntax concepts.
+Task 2: Key Features (25 points)
+Describe at least three key features or libraries specific to your chosen server-side programming language that make it suitable for web development. Explain how each feature or library enhances web development capabilities. Features and libraries could include, but are not limited to:
+
+Web frameworks or libraries for building web applications.
+Libraries for database connectivity and ORM (Object-Relational Mapping).
+Features related to asynchronous programming or concurrency control.
+Security features and best practices.
+Any other relevant features that set your chosen language apart.
+Task 3: Presentation (10 points)
+Organize your findings into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your research and explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of syntax summary (25 points)
+Relevance and depth of key features description (25 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (30 points)

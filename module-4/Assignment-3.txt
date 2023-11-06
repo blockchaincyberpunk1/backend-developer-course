@@ -1,0 +1,38 @@
+Common Web Security Vulnerabilities
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore common web security vulnerabilities and their mitigation strategies. The objective is to identify and describe at least three common web security vulnerabilities, such as Cross-Site Scripting (XSS), SQL Injection, and Cross-Site Request Forgery (CSRF). You will explain the potential risks associated with each vulnerability and provide best practices or mitigation strategies to protect web applications.
+
+Instructions:
+Please complete the following tasks to explore common web security vulnerabilities:
+
+Task 1: Vulnerability Identification (30 points)
+Identify and describe at least three common web security vulnerabilities (e.g., Cross-Site Scripting, SQL Injection, Cross-Site Request Forgery). For each vulnerability, provide the following information:
+
+A brief overview of the vulnerability and how it occurs.
+Examples of real-world scenarios where this vulnerability can be exploited.
+Task 2: Risks and Implications (30 points)
+Explain the potential risks and implications associated with each of the identified vulnerabilities. Discuss the impact of these vulnerabilities on web applications, including potential data breaches, unauthorized access, and other security risks.
+
+Task 3: Mitigation Strategies (30 points)
+Provide best practices or mitigation strategies to protect web applications from the identified vulnerabilities. For each vulnerability, discuss how developers can implement security measures to prevent or minimize the risk. Include code examples or practical advice where applicable.
+
+Task 4: Presentation (10 points)
+Organize your findings into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your descriptions, explanations, and mitigation strategies into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code examples).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of vulnerability identification (30 points)
+Depth and quality of risks and implications explanation (30 points)
+Effectiveness and relevance of mitigation strategies (30 points)
+Organization and presentation of the assignment (10 points)

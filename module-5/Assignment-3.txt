@@ -1,0 +1,43 @@
+Database Optimization Strategies
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore strategies for optimizing database performance. The objective is to describe common database optimization techniques, including indexing, query optimization, and denormalization. You will choose a database management system (e.g., MySQL, PostgreSQL) and provide practical examples of how each optimization technique can be applied.
+
+Instructions:
+Please complete the following tasks to explore database optimization strategies:
+
+Task 1: Database Optimization Techniques (30 points)
+Describe common database optimization techniques, including but not limited to:
+
+Indexing: Explain what indexing is, how it works, and when it is beneficial. Discuss different types of indexes (e.g., B-tree, hash indexes).
+Query optimization: Discuss the importance of efficient query design and how it impacts database performance. Explain techniques for optimizing SQL queries.
+Denormalization: Define denormalization and when it is appropriate to denormalize a database schema. Discuss the trade-offs and benefits of denormalization.
+Task 2: Database Selection (10 points)
+Choose a specific database management system (e.g., MySQL, PostgreSQL) that you will use for practical examples in this assignment.
+
+Task 3: Practical Examples (60 points)
+Provide practical examples of how each optimization technique (indexing, query optimization, denormalization) can be applied within the selected database management system. For each optimization technique, include:
+
+Clear explanations of the optimization technique and its purpose.
+SQL code examples or configuration changes specific to the selected database system.
+Demonstration of how the optimization affects query performance or database operation.
+Any relevant best practices or considerations.
+Task 4: Presentation (10 points)
+Organize your explanations and practical examples into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your descriptions and practical examples into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of database optimization techniques descriptions (30 points)
+Clarity and effectiveness of practical examples (60 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

@@ -1,0 +1,37 @@
+User Authorization
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore the concept of user authorization and its implementation in web development. The objective is to understand what user authorization is, how it differs from authentication, and how to implement role-based access control (RBAC) or attribute-based access control (ABAC) in a web application. To demonstrate your understanding, you will provide code examples.
+
+Instructions:
+Please complete the following tasks to explore user authorization:
+
+Task 1: User Authorization Definition (20 points)
+Explain what user authorization is and how it differs from user authentication. Discuss the role of user authorization in controlling access to specific resources or functionalities within a web application.
+
+Task 2: Role-Based Access Control (RBAC) or Attribute-Based Access Control (ABAC) Implementation (60 points)
+Choose either RBAC or ABAC as your preferred user authorization method and demonstrate how to implement it in a web application. Your implementation should include code examples that illustrate how authorization is enforced based on roles or attributes. Be sure to cover the following aspects:
+
+Define roles or attributes that users can possess.
+Assign roles or attributes to users.
+Implement authorization checks within your application code to restrict access based on roles or attributes.
+Provide code examples that showcase the authorization process.
+Task 3: Presentation (10 points)
+Organize your findings and code examples into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your explanations and code examples into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code files).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of user authorization definition (20 points)
+Quality and completeness of RBAC or ABAC implementation (60 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

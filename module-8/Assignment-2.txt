@@ -1,0 +1,43 @@
+Collaborative Git Workflow
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on learning how to collaborate using Git in a team environment. The objective is to choose a collaborative project scenario, create a Git repository for it, and define and implement a collaborative Git workflow that includes branching, code reviews, and merging strategies. You will document the workflow for your team.
+
+Instructions:
+Please complete the following tasks to learn and practice collaborative Git workflows:
+
+Task 1: Collaborative Project Selection (20 points)
+Choose a collaborative project scenario for this assignment. The project can be related to web development, a simple application, or any other topic of interest. Describe the project's goals, features, and why it requires collaboration among team members.
+
+Task 2: Git Repository Creation (20 points)
+Create a new Git repository for your collaborative project. Use the git init command or an online Git hosting platform (e.g., GitHub, GitLab) to create the repository. Share the repository link with your team members.
+
+Task 3: Collaborative Git Workflow Design (40 points)
+Define and implement a collaborative Git workflow for your team. Your workflow should include the following components:
+
+Branching strategy: Define how branches will be used in your project. Specify naming conventions for branches (e.g., feature branches, bug fix branches).
+Code review process: Outline how code reviews will be conducted. Explain who will review code changes, how feedback will be provided, and the criteria for approving code.
+Merging strategy: Define the process for merging code changes into the main branch (or another designated integration branch). Specify how conflicts will be resolved.
+Task 4: Documentation of Collaborative Workflow (20 points)
+Document your collaborative Git workflow in a clear and concise manner. Create a document that includes explanations of the branching strategy, code review process, and merging strategy. Provide examples and screenshots if necessary to illustrate the workflow steps.
+
+Task 5: Presentation (10 points)
+Organize your assignment into a clear and well-structured document. Include explanations, the Git repository link, and any relevant references or sources. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Share the Git repository link for your collaborative project.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and appropriateness of the collaborative project scenario (20 points)
+Proper creation of the Git repository (20 points)
+Quality and completeness of the collaborative Git workflow (40 points)
+Documentation of the workflow (20 points)
+Organization and presentation of the assignment (10 points)

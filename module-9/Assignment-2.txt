@@ -1,0 +1,45 @@
+Contribute to an Open-Source Project
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on contributing to an open-source project. The objective is to get involved in an open-source project that interests you or aligns with your skills, such as on platforms like GitHub. You will make a meaningful contribution to the project, such as fixing a bug, adding a feature, or improving documentation. Additionally, you will provide evidence of your contribution.
+
+Instructions:
+Please complete the following tasks to learn and practice contributing to open-source projects:
+
+Task 1: Open-Source Project Selection (20 points)
+Research and select an open-source project that interests you or aligns with your skills as a backend developer. Explain why you chose this particular project and mention any specific areas or issues you plan to contribute to.
+
+Task 2: Contribution Planning (20 points)
+Identify a meaningful contribution you can make to the selected open-source project. This contribution could include:
+
+Fixing a bug or addressing an issue reported by the project community.
+Adding a new feature or enhancing an existing one.
+Improving project documentation to make it more accessible.
+Task 3: Contribution Execution (40 points)
+Make your planned contribution to the open-source project. Follow the project's contribution guidelines, code of conduct, and development process. Ensure that your contribution aligns with the project's goals and standards.
+
+Task 4: Evidence of Contribution (10 points)
+Provide evidence of your contribution, which may include:
+
+A link to the pull request (PR) or merge request (MR) you submitted.
+Screenshots or code snippets demonstrating the changes you made.
+Communication with project maintainers or community members.
+Task 5: Documentation (10 points)
+Organize your assignment into a clear and well-structured document. Include explanations, details about the open-source project selected, your contribution, and evidence of your contribution. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and appropriateness of the open-source project selection (20 points)
+Thoughtful planning and execution of the contribution (20 points)
+Effectiveness of the contribution to the project (40 points)
+Clear evidence of the contribution (10 points)
+Organization and presentation of the assignment (10 points)

@@ -1,0 +1,43 @@
+Scalability and Performance Analysis
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will analyze the impact of scalability on application performance. The objective is to conduct a performance analysis of a web application before and after implementing scalability improvements, such as caching and load balancing. You will measure and document key performance metrics, such as response time and throughput, and provide insights into how scalability enhancements have affected the application's performance.
+
+Instructions:
+Please complete the following tasks to perform a scalability and performance analysis:
+
+Task 1: Web Application Selection (10 points)
+Choose a web application for which you will conduct the scalability and performance analysis. You can use a sample application, an open-source project, or one you have developed.
+
+Task 2: Initial Performance Analysis (20 points)
+Perform an initial performance analysis of the selected web application. Measure and document key performance metrics, such as response time, throughput, and error rates, in its current state without scalability enhancements. Provide a detailed report of your findings.
+
+Task 3: Scalability Enhancements (30 points)
+Implement scalability enhancements in the web application. This may include adding caching mechanisms, load balancers, or any other techniques you deem appropriate for improving scalability. Document the changes made to the application.
+
+Task 4: Post-Enhancement Performance Analysis (30 points)
+Conduct a second performance analysis of the web application after implementing the scalability enhancements. Measure and document the same key performance metrics as in the initial analysis. Provide a detailed report of your findings.
+
+Task 5: Performance Comparison and Insights (10 points)
+Compare the results of the initial and post-enhancement performance analyses. Analyze how the scalability enhancements have affected the application's performance. Provide insights into any improvements observed and potential areas for further optimization.
+
+Task 6: Presentation (10 points)
+Organize your performance analysis results, insights, and comparisons into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your performance analysis results, insights, and comparisons into a document (PDF or Word).
+Include any relevant references or sources you consulted during your analysis.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of initial performance analysis (20 points)
+Quality and completeness of scalability enhancements documentation (30 points)
+Quality and completeness of post-enhancement performance analysis (30 points)
+Clarity and depth of performance comparison and insights (10 points)
+Organization and presentation of the assignment (10 points)

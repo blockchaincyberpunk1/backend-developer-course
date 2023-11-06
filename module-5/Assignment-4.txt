@@ -1,0 +1,40 @@
+Introduction to NoSQL Databases (Optional)
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview (Optional):
+In this optional assignment, you will explore NoSQL databases and their use cases. The objective is to define what NoSQL databases are and explain when they might be preferred over traditional relational databases. You will also research and describe at least two popular NoSQL databases, such as MongoDB and Cassandra, and discuss their strengths and use cases.
+
+Instructions:
+Please complete the following tasks if you choose to explore NoSQL databases as an optional assignment:
+
+Task 1: What are NoSQL Databases? (20 points)
+Define what NoSQL databases are and provide an explanation of their characteristics. Explain how they differ from traditional relational databases and why they have gained popularity in certain scenarios.
+
+Task 2: When to Choose NoSQL (20 points)
+Discuss the situations or use cases in which NoSQL databases might be preferred over traditional relational databases. Highlight the advantages of NoSQL databases in specific scenarios, such as scalability, flexibility, or handling unstructured data.
+
+Task 3: Popular NoSQL Databases (40 points)
+Research and describe at least two popular NoSQL databases (e.g., MongoDB, Cassandra). For each database, provide the following information:
+
+An overview of the database, including its data model (e.g., document-based, column-family).
+Strengths and key features that make it suitable for certain use cases.
+Real-world examples or scenarios where this database has been successfully applied.
+Task 4: Presentation (10 points)
+Organize your findings and descriptions into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your explanations and descriptions into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+If you choose to complete this optional assignment, it will be graded based on the following criteria:
+
+Clarity and completeness of NoSQL database definitions (20 points)
+Depth and relevance of when to choose NoSQL discussion (20 points)
+Quality and relevance of popular NoSQL database descriptions (40 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

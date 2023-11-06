@@ -1,0 +1,40 @@
+NoSQL Database Exploration (Optional)
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview (Optional):
+In this optional assignment, you will gain hands-on experience with a NoSQL database. The objective is to choose one of the NoSQL databases studied in the course, such as MongoDB or Cassandra, and set up a database instance. You will then create a simple data model relevant to a hypothetical project, such as a document store for a content management system. Finally, you will provide examples of data insertion and retrieval to demonstrate your understanding.
+
+Instructions:
+Please complete the following tasks if you choose to explore a NoSQL database as an optional assignment:
+
+Task 1: Database Selection (10 points)
+Choose one of the NoSQL databases studied in the course (e.g., MongoDB, Cassandra) that you will use for this assignment.
+
+Task 2: Database Setup (20 points)
+Set up a database instance of the selected NoSQL database on your local machine or using a cloud-based service (e.g., MongoDB Atlas, Amazon DynamoDB). Ensure that the database is ready for data modeling and interaction.
+
+Task 3: Data Modeling (40 points)
+Create a simple data model for a hypothetical project. For example, you could design a document store for a content management system (CMS) where each document represents an article. Define the structure of your documents, including key fields and their data types.
+
+Task 4: Data Insertion and Retrieval (20 points)
+Provide examples of data insertion and retrieval using the NoSQL database you set up. Insert a few sample documents into the database and demonstrate how to query and retrieve this data. Include code snippets and explanations to illustrate your process.
+
+Task 5: Presentation (10 points)
+Organize your database setup, data model, data insertion, and retrieval examples into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your setup, data model, and examples into a document (PDF or Word).
+Include any relevant references or sources you consulted during your exploration.
+Submit your assignment as a document.
+Grading Rubric:
+If you choose to complete this optional assignment, it will be graded based on the following criteria:
+
+Quality and completeness of database setup (20 points)
+Clarity and relevance of data model (40 points)
+Quality and effectiveness of data insertion and retrieval examples (20 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

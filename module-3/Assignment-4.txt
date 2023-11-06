@@ -1,0 +1,40 @@
+ Introduction to ORM
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will delve into the concept of Object-Relational Mapping (ORM) and its significance in web development. The objective is to understand how ORM libraries facilitate the mapping of database records to objects in application code. You will define what ORM is, explain its purpose, and then compare and contrast at least two popular ORM libraries (e.g., SQLAlchemy, ActiveRecord) in the context of your chosen back-end framework.
+
+Instructions:
+Please complete the following tasks to explore ORM and popular ORM libraries:
+
+Task 1: ORM Definition and Purpose (25 points)
+Define what Object-Relational Mapping (ORM) is and explain its purpose in the context of web development. Consider how ORM simplifies the interaction between application code and databases, and how it abstracts the database layer.
+
+Task 2: Comparison of ORM Libraries (45 points)
+Choose at least two popular ORM libraries (e.g., SQLAlchemy, ActiveRecord) and compare and contrast them in the context of your chosen back-end framework. For each ORM library, provide insights into the following aspects:
+
+Overview of the ORM library, including its history and development.
+Key features and capabilities offered by the ORM library.
+Supported databases and compatibility.
+Integration with your chosen back-end framework (e.g., Flask, Ruby on Rails, Express.js).
+Examples or code snippets that demonstrate how the ORM library is used within your chosen framework.
+Any notable strengths or limitations of the ORM library in the context of web development.
+Task 3: Presentation (10 points)
+Organize your findings into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your research and explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code snippets).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of ORM definition and purpose (25 points)
+Depth and quality of ORM library comparison (45 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (10 points)

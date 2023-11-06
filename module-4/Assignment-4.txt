@@ -1,0 +1,41 @@
+Security Testing
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will gain practical experience in testing web applications for security vulnerabilities. The objective is to choose a web application (which can be a simple one created for this assignment) and perform a security assessment. You will conduct security testing to identify vulnerabilities in the application, either using tools like OWASP ZAP or manual testing methods. Subsequently, you will document the vulnerabilities found and suggest remediation measures.
+
+Instructions:
+Please complete the following tasks to conduct a security assessment:
+
+Task 1: Web Application Selection (10 points)
+Choose a web application for your security assessment. You may create a simple web application specifically for this assignment or select an existing one.
+
+Task 2: Security Testing (50 points)
+Conduct security testing on the selected web application to identify vulnerabilities. You can use tools like OWASP ZAP, Burp Suite, or engage in manual testing methods. Ensure that you cover a range of potential security vulnerabilities, such as Cross-Site Scripting (XSS), SQL Injection, Cross-Site Request Forgery (CSRF), or any others you deem relevant.
+
+For each vulnerability you identify, provide the following information:
+
+A description of the vulnerability and how it was discovered.
+The potential risks or implications of the vulnerability.
+Any relevant details or context regarding the application's security posture.
+Task 3: Remediation Measures (30 points)
+Suggest remediation measures or best practices to address the vulnerabilities identified during your security assessment. For each vulnerability, provide guidance on how the application's developers or administrators can mitigate the risk and enhance security. Include specific recommendations and any code examples or configuration changes where applicable.
+
+Task 4: Presentation (10 points)
+Organize your findings, vulnerabilities, and remediation suggestions into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your security assessment, vulnerability descriptions, and remediation measures into a document (PDF or Word).
+Include any relevant references or sources you consulted during your testing and research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., test reports, code snippets).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of security testing (50 points)
+Clarity and effectiveness of vulnerability descriptions (20 points)
+Quality and relevance of remediation measures (30 points)
+Organization and presentation of the assignment (10 points)

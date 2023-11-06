@@ -1,0 +1,43 @@
+Tutorials and Hands-On Learning
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on active learning by engaging in a tutorial or hands-on project related to a specific back-end development topic or technology. The objective is to select a back-end development topic or technology that interests you (e.g., microservices, serverless computing), find a comprehensive tutorial or hands-on project, complete the tutorial, and summarize your learning experience. Additionally, you will share any challenges faced and how you overcame them.
+
+Instructions:
+Please complete the following tasks to actively engage in tutorials and hands-on learning:
+
+Task 1: Topic Selection (20 points)
+Choose a back-end development topic or technology that interests you. It could be related to microservices, serverless computing, containerization, or any other area you wish to explore. Explain why you chose this particular topic.
+
+Task 2: Tutorial or Hands-On Project Selection (20 points)
+Find a comprehensive tutorial or hands-on project that is related to the back-end development topic you selected. The tutorial should provide step-by-step instructions and practical exercises. Provide information about the tutorial, including its title, source, and a brief description.
+
+Task 3: Tutorial Completion and Learning (40 points)
+Follow the tutorial or complete the hands-on project. As you progress, take notes on your learning experience, including:
+
+Key concepts learned.
+Any challenges or difficulties you encountered.
+How you overcame these challenges.
+Insights gained from the tutorial.
+Task 4: Reflection (10 points)
+Reflect on your hands-on learning experience. Discuss how actively engaging in tutorials and practical projects contributes to your understanding and skill development as a backend developer.
+
+Task 5: Documentation (10 points)
+Organize your assignment into a clear and well-structured document. Include explanations, details about the selected topic and tutorial, your learning experience, and reflections. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources related to the tutorial.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and appropriateness of the topic selection (20 points)
+Thoughtful selection of the tutorial or hands-on project (20 points)
+Effective completion of the tutorial and learning experience (40 points)
+Thoughtful reflection on the hands-on learning (10 points)
+Organization and presentation of the assignment (10 points)

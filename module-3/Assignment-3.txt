@@ -1,0 +1,39 @@
+Database Connection Setup
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on understanding how to connect to databases within the context of your chosen back-end framework. The objective is to gain practical knowledge of setting up a database connection, which is essential for developing database-driven web applications. You will outline the steps required to establish a database connection within your chosen back-end framework and provide configuration examples or code snippets to demonstrate the process.
+
+Instructions:
+Please complete the following tasks to learn about database connection setup in your chosen back-end framework:
+
+Task 1: Database Connection Steps (30 points)
+Outline the steps required to set up a database connection within your chosen back-end framework. Your steps should cover the entire process, from defining the database type to establishing the connection. Be sure to include any configuration or setup necessary for your specific framework. Consider elements such as database drivers, connection pools, and authentication.
+
+Task 2: Configuration Examples (40 points)
+Provide configuration examples or code snippets that demonstrate how to establish a connection to a database system using your chosen back-end framework. You should include:
+
+Sample configuration files or code sections that define database connection parameters (e.g., host, port, username, password, database name).
+Code snippets that initiate the connection to the database.
+Any additional code or configurations related to database connection handling.
+Ensure that your examples are clear and well-commented to facilitate understanding.
+
+Task 3: Presentation (10 points)
+Organize your findings and code examples into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your database connection setup steps and code examples into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code files).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of database connection setup steps (30 points)
+Clarity and quality of configuration examples (40 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (10 points)

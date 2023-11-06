@@ -1,0 +1,46 @@
+API Design and Documentation
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will design and document RESTful APIs for a hypothetical project. The objective is to choose a project scenario (e.g., a task management application) and outline the key resources and operations that your API will support. You will create a detailed API design document that includes API endpoints, request/response schemas, authentication mechanisms, and usage examples.
+
+Instructions:
+Please complete the following tasks to design and document your RESTful APIs:
+
+Task 1: Project Scenario Selection (10 points)
+Choose a hypothetical project scenario for which you will design and document RESTful APIs. Examples include task management applications, e-commerce platforms, or social media networks. Identify the key resources and operations that your API will need to support within this scenario.
+
+Task 2: API Design (40 points)
+Outline the design of your RESTful APIs, considering the following aspects:
+
+API endpoints: Define the specific endpoints for each resource and operation. Use resource-based URLs (e.g., /tasks, /users) and appropriate HTTP methods (GET, POST, PUT, DELETE).
+Request and response schemas: Describe the structure and format of request and response data, including any required headers or parameters.
+Authentication mechanisms: Specify how authentication will be handled in your API (e.g., token-based authentication, OAuth, API keys).
+Error handling: Explain how errors and exceptions will be communicated to clients.
+Security considerations: Discuss any security measures or practices implemented in your API design.
+Task 3: API Documentation (40 points)
+Create a detailed API design document that includes the following sections:
+
+Introduction: Provide an overview of the project and its goals.
+Resource descriptions: Describe each resource in your API, including its attributes, relationships, and usage.
+Endpoint documentation: Document each API endpoint, including its URL, HTTP method, request format, and response format. Include example requests and responses.
+Authentication instructions: Explain how clients should authenticate with your API, including any token generation or authentication flow.
+Usage examples: Provide practical usage examples of your API, showcasing how clients can interact with it to achieve common tasks.
+Task 4: Presentation (10 points)
+Organize your API design and documentation into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your API design and documentation into a document (PDF or Word).
+Include any relevant references or sources you consulted during your design.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of API design (40 points)
+Quality and completeness of API documentation (40 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

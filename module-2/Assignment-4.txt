@@ -1,0 +1,57 @@
+API Implementation
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will put your knowledge of RESTful API design principles into practice. The objective is to build a simple RESTful API using your chosen server-side programming language (e.g., Python, Ruby, Node.js, Java, PHP). You will design and implement a basic RESTful API for a hypothetical web application (e.g., a to-do list manager). Additionally, you will document the API endpoints, describe their purpose, and provide sample request and response data to demonstrate your implementation.
+
+Instructions:
+Please complete the following tasks to design and implement your RESTful API:
+
+Task 1: API Design (20 points)
+Design a basic RESTful API for a hypothetical web application. The application can be a simple to-do list manager. Your API should include the following endpoints:
+
+Retrieve a list of items.
+Retrieve a specific item by ID.
+Create a new item.
+Update an existing item.
+Delete an item.
+For each endpoint, provide:
+
+The HTTP method to be used (e.g., GET, POST, PUT, DELETE).
+The resource-based URL (e.g., /items, /items/{id}).
+A brief description of the endpoint's purpose.
+Any required request parameters or request body (if applicable).
+Task 2: API Implementation (40 points)
+Implement your designed RESTful API using your chosen server-side programming language. You can use a web framework if applicable.
+
+Create the necessary routes, controllers, and logic to handle each endpoint.
+Ensure that the API can handle common operations, including retrieving, creating, updating, and deleting items.
+Implement basic error handling for invalid requests or missing resources.
+Test your API locally to verify that it functions as expected.
+Task 3: Documentation (20 points)
+Document your RESTful API, including its endpoints, purpose, and sample request and response data for each endpoint. Your documentation should include:
+
+A clear list of all API endpoints with their descriptions.
+Sample request payloads or query parameters (if applicable).
+Sample response data, including status codes and JSON responses.
+Any additional information or notes that are relevant to understanding and using the API.
+Task 4: Presentation (10 points)
+Organize your findings, code snippets, and documentation into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your code and documentation into a document (PDF or Word).
+Include any relevant references or sources you consulted during your implementation.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code files).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of API design (20 points)
+Accuracy and functionality of API implementation (40 points)
+Clarity and completeness of API documentation (20 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (5 points)
+Overall presentation and professionalism (5 points)

@@ -1,0 +1,40 @@
+Load Balancing in Practice
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will gain hands-on experience with load balancing to understand how it distributes traffic and ensures scalability. The objective is to describe the role of load balancers in a web application architecture and set up a practical scenario. You will configure a load balancer (you can use software-based solutions like Nginx or HAProxy) to distribute incoming traffic among multiple web servers serving a website.
+
+Instructions:
+Please complete the following tasks to explore load balancing in practice:
+
+Task 1: Role of Load Balancers (30 points)
+Describe the role of load balancers in a web application architecture. Explain how load balancers distribute incoming traffic among multiple servers to enhance performance, availability, and reliability. Highlight the benefits of using load balancers.
+
+Task 2: Practical Scenario (20 points)
+Create a practical scenario in which you have multiple web servers serving a website. You can use virtual machines, cloud instances, or local servers for this setup. Provide details about the number of web servers, their configurations, and the website they are hosting.
+
+Task 3: Load Balancer Setup (40 points)
+Choose a software-based load balancer solution (e.g., Nginx, HAProxy) and configure it to distribute incoming traffic among the web servers in your practical scenario. Provide step-by-step instructions and configuration files to demonstrate the setup process. Ensure that the load balancer is operational.
+
+Task 4: Testing and Validation (10 points)
+Test the load balancer to ensure that it effectively distributes traffic among the web servers. Provide evidence of testing, including any test cases or scenarios used and their outcomes.
+
+Task 5: Presentation (10 points)
+Organize your load balancer setup instructions, testing details, and explanations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your load balancer setup instructions, testing details, and explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your setup.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of load balancer role description (30 points)
+Quality and relevance of practical scenario (20 points)
+Effectiveness and correctness of load balancer setup (40 points)
+Testing and validation of the load balancer (10 points)
+Organization and presentation of the assignment (10 points)

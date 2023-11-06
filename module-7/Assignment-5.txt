@@ -1,0 +1,40 @@
+Server-Side Rendering Application (SSR)
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this optional assignment, you will have the opportunity to extend your skills by developing a web application using server-side rendering (SSR). The objective is to choose a front-end framework (e.g., React, Vue.js) and develop a simple web application. You will implement server-side rendering using a framework or library appropriate for your chosen back-end technology (e.g., Next.js for Node.js).
+
+Instructions:
+Please complete the following tasks to develop a Server-Side Rendering (SSR) web application:
+
+Task 1: Front-End Framework and Application Design (20 points)
+Choose a front-end framework (e.g., React, Vue.js) and design a simple web application. Outline the key features and functionality that your application will offer.
+
+Task 2: Back-End Framework or Library Selection (20 points)
+Select a back-end framework or library that supports server-side rendering (SSR). Examples include Next.js for Node.js or Nuxt.js for Vue.js. Explain why you chose this framework or library for your project.
+
+Task 3: Application Implementation (40 points)
+Develop your web application using the chosen front-end framework and back-end SSR technology. Ensure that your application includes server-side rendering for at least one page or component. Implement any necessary routing, data fetching, and rendering logic.
+
+Task 4: Testing and Validation (10 points)
+Test your SSR web application to ensure that it functions as intended. Document any issues encountered during testing and any solutions you implemented.
+
+Task 5: Presentation (10 points)
+Organize your assignment into a clear and well-structured document. Include explanations, code snippets, and any relevant references or sources. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources you consulted during your project.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of the front-end application design (20 points)
+Appropriateness of the back-end SSR framework or library selection (20 points)
+Quality and completeness of the application implementation (40 points)
+Quality of testing and validation (10 points)
+Organization and presentation of the assignment (10 points)

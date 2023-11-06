@@ -1,0 +1,39 @@
+Secure Coding Practices
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on learning and applying secure coding practices in the context of web development. The objective is to research and compile a list of secure coding practices and principles. Subsequently, you will review a codebase (which can be an open-source project of your choice) and analyze it for adherence to these secure coding practices. Finally, you will provide recommendations for improving security in the codebase.
+
+Instructions:
+Please complete the following tasks to explore and apply secure coding practices:
+
+Task 1: Secure Coding Practices Compilation (30 points)
+Research and compile a list of secure coding practices and principles that are relevant to web development. This list should include practices related to data validation, authentication, authorization, input handling, error handling, and other security-related aspects. Each practice should be explained in brief.
+
+Task 2: Codebase Review (50 points)
+Select a codebase to review for adherence to secure coding practices. You can choose an open-source project or use a sample project provided by your instructor. Analyze the codebase thoroughly, looking for areas where secure coding practices are followed and areas where improvements can be made. Consider using code analysis tools or manual review techniques.
+
+For each identified security concern or practice observed, provide the following information:
+
+A description of the security concern or practice.
+The specific code or code section in the codebase where the concern or practice is observed.
+An explanation of why the observed code adheres or does not adhere to the secure coding practice.
+Recommendations for improving the security of the code in the identified areas.
+Task 3: Presentation (10 points)
+Organize your findings, secure coding practices, and recommendations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your secure coding practices list, codebase review findings, and recommendations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code snippets, review reports).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of secure coding practices compilation (30 points)
+Depth and effectiveness of codebase review (50 points)
+Quality and relevance of recommendations (10 points)
+Organization and presentation of the assignment (10 points)

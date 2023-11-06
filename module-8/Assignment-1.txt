@@ -1,0 +1,41 @@
+Git Basics
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on gaining a fundamental understanding of Git version control. The objective is to explain what version control is and why it's essential in software development. You will also create a Git repository for a simple project (e.g., a text-based game) and perform basic Git operations like committing changes, creating branches, and merging branches.
+
+Instructions:
+Please complete the following tasks to learn and practice Git basics:
+
+Task 1: Version Control Introduction (20 points)
+Write a brief explanation of what version control is and why it's crucial in software development. Discuss the benefits of version control systems in terms of collaboration, tracking changes, and managing codebase history.
+
+Task 2: Project Setup and Git Initialization (20 points)
+Choose a simple project idea (e.g., a text-based game) that you will use for this assignment. Create a new directory for your project and initialize a Git repository in it using the git init command. Provide a screenshot or description of your project directory after initialization.
+
+Task 3: Git Basics (40 points)
+Perform the following Git operations in your project repository and provide explanations for each step:
+
+Committing changes: Make at least two changes to your project's files and commit them to your Git repository using the git commit command. Explain the purpose of each commit.
+Creating branches: Create a new branch in your repository using the git branch command. Provide a meaningful name for the branch.
+Switching branches: Switch between the main branch and the newly created branch using the git checkout command.
+Making changes in branches: Make changes to your project's files while working in the branch you created. Commit these changes.
+Merging branches: Merge the changes from your branch into the main branch using the git merge command. Explain the steps involved in the merging process.
+Task 4: Presentation (20 points)
+Organize your assignment into a clear and well-structured document. Include explanations, commands used, and any relevant references or sources. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of the version control introduction (20 points)
+Proper project setup and Git initialization (20 points)
+Quality and completeness of Git basics tasks (40 points)
+Organization and presentation of the assignment (20 points)

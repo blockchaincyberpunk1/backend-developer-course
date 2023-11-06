@@ -1,0 +1,49 @@
+ RESTful API Design Principles
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will dive into the world of RESTful API design. The objective is to learn how to design RESTful APIs for web applications. You will define what a RESTful API is and explain its core principles, including statelessness, resource-based URLs, and the use of HTTP methods. To reinforce your understanding, you will provide an example scenario (e.g., a simple blog application) and outline the endpoints and operations that would be part of its RESTful API.
+
+Instructions:
+Please complete the following tasks to explore RESTful API design principles:
+
+Task 1: RESTful API Definition and Principles (20 points)
+Define what a RESTful API is and explain its core principles:
+
+Provide a concise definition of a RESTful API.
+Explain the statelessness principle in the context of REST.
+Describe the concept of resource-based URLs and how they are used in RESTful APIs.
+Discuss the significance of HTTP methods (GET, POST, PUT, DELETE, etc.) in RESTful API design.
+Task 2: RESTful API Example (35 points)
+Imagine a simple blog application and outline the endpoints and operations that would be part of its RESTful API. Your API should include the following operations:
+
+Retrieve a list of blog posts.
+Retrieve a specific blog post by ID.
+Create a new blog post.
+Update an existing blog post.
+Delete a blog post.
+For each operation, provide:
+
+The HTTP method to be used (e.g., GET, POST, PUT, DELETE).
+The resource-based URL (e.g., /posts, /posts/{id}).
+A brief description of the operation's purpose.
+Any required request parameters or request body (if applicable).
+Task 3: Presentation (10 points)
+Organize your findings into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your research and explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document along with any necessary supplementary files.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of RESTful API principles (20 points)
+Accuracy and depth of RESTful API example (35 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (25 points)

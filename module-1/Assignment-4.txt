@@ -1,0 +1,49 @@
+Database Design Basics
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore the fundamental principles of database design and gain an understanding of why effective database design is crucial in web development. You will also learn about the process of designing a database schema, which includes defining tables, relationships, and constraints. To reinforce your understanding, you will provide a simple example of a database schema.
+
+Instructions:
+Please complete the following tasks to demonstrate your grasp of database design basics:
+
+Task 1: Importance of Database Design (15 points)
+Discuss the importance of effective database design in web development:
+
+Explain why a well-designed database is essential for web applications.
+Discuss the potential consequences of poor database design on web application performance and maintenance.
+Highlight the role of a database schema in ensuring data integrity and reliability.
+Task 2: Designing a Database Schema (25 points)
+Describe the process of designing a database schema, including defining tables, relationships, and constraints:
+
+Define what a database schema is and its purpose in a relational database.
+Explain how tables are used to structure data in a database.
+Discuss the importance of defining columns and data types.
+Describe how relationships are established between tables.
+Explain the concepts of primary keys and foreign keys.
+Discuss the use of constraints in database design, including primary key, foreign key, unique, and check constraints.
+Task 3: Database Schema Example (20 points)
+Provide a simple example of a database schema for a hypothetical web application. Your schema should include:
+
+At least two tables.
+A clear definition of the columns in each table.
+Relationships between the tables using primary and foreign keys.
+Appropriate constraints to maintain data integrity.
+Submission Guidelines:
+
+Write your responses in a clear and organized manner.
+Use proper grammar and spelling.
+Include a diagram or written description of your example database schema.
+Submit your assignment as a PDF document or a Word document.
+Ensure your assignment is well-structured with clear headings for each task.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and depth of explanations (50 points)
+Clarity and organization of your responses (20 points)
+Quality and completeness of the example database schema (20 points)
+Adherence to submission guidelines (5 points)
+Overall presentation and professionalism (5 points)

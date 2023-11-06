@@ -1,0 +1,46 @@
+RESTful API Implementation
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will implement a RESTful API based on the design created in Homework Assignment 1. The objective is to develop the RESTful API for the chosen project scenario using your back-end framework of choice (e.g., Express.js, Flask, Ruby on Rails). Your implementation should include routes, controllers, and necessary database interactions, ensuring that the API adheres to the REST architectural principles.
+
+Instructions:
+Please complete the following tasks to implement the RESTful API:
+
+Task 1: Project Scenario and Design (10 points)
+Refer to the project scenario and API design created in Homework Assignment 1. Ensure that you have a clear understanding of the API endpoints, request/response schemas, authentication mechanisms, and usage examples.
+
+Task 2: API Implementation (60 points)
+Implement the RESTful API in your chosen back-end framework, considering the following aspects:
+
+Routes: Define the routes and endpoints for each resource and operation based on your API design.
+Controllers: Create controllers to handle incoming requests, validate data, and interact with the database.
+Database interactions: Implement the necessary database operations (e.g., CRUD operations) to manage the resources.
+Request validation: Ensure that incoming requests are properly validated and sanitized.
+Authentication: Implement the authentication mechanisms as defined in your API design.
+Error handling: Implement error handling and response formatting according to RESTful principles.
+Task 3: API Testing (20 points)
+Test your API to ensure that it functions as intended. Create test cases and scenarios to cover various endpoints and operations. Document the testing process and any issues encountered.
+
+Task 4: Documentation Updates (10 points)
+Update your API documentation to reflect any changes or additions made during the implementation. Ensure that the documentation is accurate and up to date.
+
+Task 5: Presentation (10 points)
+Organize your API implementation, testing details, and documentation updates into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your API implementation, testing details, and documentation updates into a document (PDF or Word).
+Include any relevant references or sources you consulted during your implementation.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of API implementation (60 points)
+Quality and completeness of API testing (20 points)
+Accuracy and completeness of documentation updates (10 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

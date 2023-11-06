@@ -1,0 +1,44 @@
+ORM Usage in Practice
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will apply your knowledge of Object-Relational Mapping (ORM) to practical use. The objective is to gain hands-on experience with ORM within your chosen back-end framework by creating a simple web application. You will implement ORM to perform basic database operations such as create, read, update, and delete (CRUD) within your application. To demonstrate your implementation, you will provide code examples and explanations.
+
+Instructions:
+Please complete the following tasks to gain practical experience with ORM:
+
+Task 1: Web Application Setup (20 points)
+
+Create a simple web application using your chosen back-end framework (e.g., Flask, Ruby on Rails, Express.js).
+Set up the necessary project structure, routes, and views for your application.
+Task 2: ORM Implementation (50 points)
+Implement ORM to perform basic database operations (CRUD) within your web application. You should include code examples and explanations for each of the following database operations:
+
+Create (Insert) operation: Demonstrate how to add new records to the database using ORM.
+Read (Retrieve) operation: Show how to fetch data from the database using ORM queries or methods.
+Update operation: Explain how to modify existing records in the database using ORM.
+Delete operation: Describe the process of deleting records from the database using ORM.
+Ensure that your code examples are clear and well-commented to facilitate understanding.
+
+Task 3: Testing (15 points)
+Test your web application to ensure that the ORM-based database operations are functioning correctly. Provide sample test cases or scenarios, and explain how to execute them within your application.
+
+Task 4: Presentation (10 points)
+Organize your code examples and explanations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your code examples, explanations, and testing information into a document (PDF or Word).
+Include any relevant references or sources you consulted during your implementation.
+Submit your assignment as a document along with any necessary supplementary files (e.g., code files).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of web application setup (20 points)
+Quality and completeness of ORM implementation (50 points)
+Accuracy and thoroughness of testing (15 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (5 points)

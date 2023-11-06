@@ -1,0 +1,33 @@
+Introduction to Database Design
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will delve into the fundamentals of database design. The objective is to understand the importance of proper database design in data storage and management. You will also explore the concept of normalization and its role in designing efficient relational databases.
+
+Instructions:
+Please complete the following tasks to explore database design:
+
+Task 1: Importance of Database Design (30 points)
+Define the importance of proper database design in the context of data storage and management. Explain why designing a database structure that aligns with the needs of the application and ensures data integrity is crucial.
+
+Task 2: Normalization Concept (40 points)
+Explain the concept of normalization in the context of relational databases. Discuss what normalization is, why it is important, and how it contributes to the efficiency and integrity of a database design. Provide examples or scenarios to illustrate normalization principles.
+
+Task 3: Presentation (10 points)
+Organize your explanations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of the importance of database design (30 points)
+Depth and quality of normalization concept explanation (40 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

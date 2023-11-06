@@ -1,0 +1,33 @@
+Normalization in Practice
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will apply normalization techniques to a real-world scenario. The objective is to choose a hypothetical scenario, such as an online store with products, customers, and orders, and design a normalized relational database schema. You will explain the rationale behind your design choices, demonstrating your understanding of normalization principles.
+
+Instructions:
+Please complete the following tasks to apply normalization techniques:
+
+Task 1: Scenario Selection (10 points)
+Choose a hypothetical scenario for which you will design a normalized relational database schema. Examples include an online store, a library management system, or a university course registration system. Ensure that the scenario involves multiple entities and relationships.
+
+Task 2: Relational Database Schema Design (60 points)
+Design a normalized relational database schema for the chosen scenario. Your schema should include tables, columns, primary keys, foreign keys, and relationships between tables. Consider the principles of normalization (1NF, 2NF, 3NF, etc.) when designing your schema. Explain the rationale behind your design choices, including the reasons for splitting or combining tables, creating relationships, and defining primary and foreign keys.
+
+Task 3: Presentation (10 points)
+Organize your database schema design and rationale explanations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your database schema design and rationale explanations into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of the relational database schema design (60 points)
+Clarity and depth of rationale explanations (20 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

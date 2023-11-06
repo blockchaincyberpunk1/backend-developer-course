@@ -1,0 +1,45 @@
+API Testing and Documentation
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on testing and documenting the RESTful API you developed in the previous assignment. The objective is to learn how to validate the functionality of your API endpoints through testing and create comprehensive documentation to facilitate its usage by other developers. You will create a set of test cases to cover various scenarios for different HTTP methods (GET, POST, PUT, DELETE) and develop documentation that provides clear descriptions, expected input and output, and usage examples for each endpoint.
+
+Instructions:
+Please complete the following tasks to test and document your API:
+
+Task 1: API Testing (40 points)
+Create a set of test cases to validate the functionality of your API endpoints. Include scenarios for different HTTP methods (GET, POST, PUT, DELETE) and various input scenarios. Each test case should include:
+
+A clear description of the test scenario.
+The HTTP method to be used (e.g., GET, POST, PUT, DELETE).
+The resource-based URL (e.g., /items, /items/{id}).
+Expected input (e.g., request body, query parameters, path parameters).
+Expected output (e.g., expected response status code, response data, error messages).
+Execute the test cases against your API to ensure that it behaves as expected.
+
+Task 2: API Documentation (50 points)
+Develop documentation for your API that makes it easy for other developers to understand and use. Your documentation should include:
+
+A clear description of each API endpoint.
+Expected input for each endpoint, including any required request parameters or request body.
+Expected output, including the response status code and response data format (e.g., JSON).
+Usage examples for each endpoint, including sample requests and responses.
+Organize your documentation into a well-structured document or format (e.g., Swagger, Markdown, PDF) that is easy to navigate and reference.
+
+Task 3: Presentation (10 points)
+Organize your test cases and documentation into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your test cases and documentation into a document or format (e.g., Swagger, Markdown, PDF).
+Include any relevant references or sources you consulted during your testing and documentation process.
+Submit your assignment as a document or format along with any necessary supplementary files (e.g., code files).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of API test cases (40 points)
+Clarity and completeness of API documentation (50 points)
+Organization and presentation of the assignment (10 points)

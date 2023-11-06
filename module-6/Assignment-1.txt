@@ -1,0 +1,44 @@
+Caching Strategies
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore caching strategies and techniques for performance optimization. The objective is to define what caching is and explain its importance in improving application performance. You will also research and describe at least three caching strategies, such as in-memory caching and content delivery networks (CDNs), providing examples of scenarios where each strategy can be applied.
+
+Instructions:
+Please complete the following tasks to explore caching strategies:
+
+Task 1: What is Caching? (30 points)
+Define what caching is in the context of web development and application performance optimization. Explain why caching is crucial for improving the speed and efficiency of web applications.
+
+Task 2: Caching Strategies (60 points)
+Research and describe at least three caching strategies used in web development. Examples of caching strategies include but are not limited to:
+
+In-memory caching
+Content Delivery Networks (CDNs)
+Browser caching
+Database query caching
+Full-page caching
+For each caching strategy you describe, provide the following information:
+
+An explanation of how the caching strategy works.
+Scenarios or use cases where this strategy is beneficial.
+Any potential drawbacks or limitations.
+Code examples or configuration settings if applicable.
+Task 3: Presentation (10 points)
+Organize your explanations and descriptions into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your explanations and descriptions into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of caching definition (30 points)
+Depth and quality of caching strategy descriptions (60 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

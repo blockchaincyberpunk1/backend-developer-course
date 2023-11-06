@@ -1,0 +1,41 @@
+Deploying with Docker
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on learning how to deploy back-end applications using Docker. The objective is to choose a back-end application (e.g., the RESTful API developed in a previous module) and create a Dockerfile for it. You will then set up a Docker container using your image and deploy the application locally. Additionally, you will describe the deployment process and any challenges faced.
+
+Instructions:
+Please complete the following tasks to learn and practice deploying back-end applications with Docker:
+
+Task 1: Back-End Application Selection (20 points)
+Choose a back-end application that you have previously developed or worked on (e.g., a RESTful API, a web server, a database server) for this assignment. Describe the application's purpose, features, and any dependencies it requires for running.
+
+Task 2: Dockerfile Creation (40 points)
+Create a Dockerfile for your chosen back-end application. Include the necessary steps to set up the application environment within the Docker container. Consider the following elements in your Dockerfile:
+
+Base image selection: Choose an appropriate base image (e.g., a specific OS or runtime environment).
+Installation of dependencies: Install any required dependencies or packages.
+Application setup: Copy the application code and configuration files into the container.
+Port configuration: Specify the port(s) on which the application should listen.
+Task 3: Docker Container Deployment (20 points)
+Build a Docker image using the Dockerfile you created in Task 2. Use the docker build command to create the image. Then, deploy the application locally within a Docker container using the docker run command. Describe the deployment process, including any challenges or issues you encountered during deployment.
+
+Task 4: Presentation (10 points)
+Organize your assignment into a clear and well-structured document. Include explanations, the Dockerfile content, commands used for image building and container deployment, and any relevant references or sources. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+If possible, share your Docker image on a container registry or hosting platform (e.g., Docker Hub) and provide the image's repository link.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and appropriateness of the back-end application selection (20 points)
+Proper creation of the Dockerfile (40 points)
+Successful deployment of the Docker container (20 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

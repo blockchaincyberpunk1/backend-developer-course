@@ -1,0 +1,38 @@
+Attend a Developer Meetup or Webinar
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will focus on expanding your knowledge by participating in a developer meetup or webinar. The objective is to find a local or virtual developer meetup, conference, or webinar related to back-end development or a technology stack of interest. You will attend the event, take notes, and provide a summary of the key takeaways, insights, or new knowledge gained.
+
+Instructions:
+Please complete the following tasks to learn and gain insights from a developer meetup or webinar:
+
+Task 1: Event Selection (20 points)
+Research and select a developer meetup, conference, or webinar that aligns with your interests or technology stack as a backend developer. Provide information about the event, including its title, date, and a brief description.
+
+Task 2: Event Attendance (40 points)
+Attend the selected developer meetup or webinar. Pay close attention to the presentations, discussions, or workshops conducted during the event. Take notes on key points, insights, interesting ideas, or any new knowledge gained.
+
+Task 3: Key Takeaways and Summary (30 points)
+After attending the event, write a summary that includes:
+
+Key takeaways: List the most important insights, concepts, or ideas you gained from the event.
+Insights: Explain how the event expanded your understanding of back-end development or your chosen technology stack.
+New knowledge: Highlight any new tools, techniques, or trends discussed during the event.
+Task 4: Reflection (10 points)
+Reflect on your experience attending the developer meetup or webinar. Discuss how this experience can benefit your career as a backend developer and your ongoing learning journey.
+
+Submission Guidelines:
+
+Compile your assignment into a document (PDF or Word).
+Include any relevant references or sources related to the event.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and appropriateness of the event selection (20 points)
+Active and attentive participation in the event (40 points)
+Clear and informative summary of key takeaways (30 points)
+Thoughtful reflection on the event experience (10 points)

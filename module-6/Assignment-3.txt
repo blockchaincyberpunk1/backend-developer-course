@@ -1,0 +1,36 @@
+Scalability Concepts
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will explore the fundamentals of scalability in web applications. The objective is to define scalability and explain its importance for modern web applications. You will also discuss at least three techniques for achieving scalability, such as load balancing, horizontal scaling, and auto-scaling, providing real-world examples of each technique.
+
+Instructions:
+Please complete the following tasks to explore scalability concepts:
+
+Task 1: What is Scalability? (30 points)
+Define scalability in the context of web applications and software systems. Explain why scalability is essential for modern web applications and how it impacts user experience and system reliability.
+
+Task 2: Scalability Techniques (60 points)
+Discuss at least three techniques for achieving scalability in web applications. Examples of scalability techniques include but are not limited to:
+
+Load balancing: Explain how load balancing distributes incoming traffic across multiple servers and ensures high availability. Provide a real-world example of load balancing in action.
+Horizontal scaling: Describe the concept of horizontal scaling, where additional server instances are added to accommodate increased load. Provide a real-world example of horizontal scaling implementation.
+Auto-scaling: Explain the concept of auto-scaling, where resources are automatically adjusted based on demand. Provide a real-world example of auto-scaling in a cloud-based environment.
+Task 3: Presentation (10 points)
+Organize your explanations and descriptions into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Submission Guidelines:
+
+Compile your explanations and descriptions into a document (PDF or Word).
+Include any relevant references or sources you consulted during your research.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of scalability definition (30 points)
+Depth and quality of scalability technique descriptions (60 points)
+Organization and presentation of the assignment (10 points)
+Adherence to submission guidelines (10 points)

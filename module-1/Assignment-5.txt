@@ -1,0 +1,53 @@
+Relational Database Querying
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will gain hands-on experience with relational database querying. You will set up a relational database system of your choice (e.g., MySQL, PostgreSQL) or use an online database sandbox for practice. You will then write SQL queries to perform common database operations, such as selecting data, filtering records, and joining tables. To demonstrate your understanding, provide examples and explanations of your queries.
+
+Instructions:
+Please complete the following tasks to demonstrate your proficiency in relational database querying:
+
+Task 1: Database Setup (10 points)
+Choose a relational database system of your preference and set it up for this assignment. You can either:
+
+Install and configure a database system locally (e.g., MySQL, PostgreSQL).
+Use an online database sandbox or cloud-based database service (e.g., SQL Fiddle, AWS RDS).
+Ensure that you have a database with tables and some sample data to work with for the queries.
+
+Task 2: SQL Queries (45 points)
+Write SQL queries to perform the following operations. Provide examples and explanations for each query:
+
+Select All Records: Write a query to select all records from a specific table.
+
+Filtering Records: Write a query to retrieve records that meet a specific condition (e.g., filtering employees with a certain job title).
+
+Sorting Records: Write a query to retrieve records from a table, sorted in ascending or descending order based on a particular column.
+
+Aggregating Data: Write a query to calculate and display aggregated data, such as the total count, sum, average, or maximum/minimum value of a specific column.
+
+Joining Tables: Write a query that joins two or more tables to retrieve data from related tables. Explain the type of join you are using (e.g., INNER JOIN, LEFT JOIN).
+
+Task 3: Documentation (10 points)
+Create a document (e.g., PDF or Word) that includes the following:
+
+A brief description of the database system you chose for this assignment.
+SQL queries for each of the tasks above.
+Clear explanations of each query, including the purpose and expected results.
+Screenshots or outputs showing the results of your queries from the database.
+Submission Guidelines:
+
+Write your SQL queries and explanations in a clear and organized manner.
+Use proper SQL syntax and formatting.
+Include clear references to the database and table(s) you are querying.
+Submit your assignment as a document (PDF or Word) along with any necessary supplementary files (e.g., screenshots).
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and correctness of SQL queries (35 points)
+Clarity and completeness of explanations (25 points)
+Proper documentation and presentation (15 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (15 points)

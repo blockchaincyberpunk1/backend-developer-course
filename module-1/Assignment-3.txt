@@ -1,0 +1,56 @@
+Database Models Comparison
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will conduct an in-depth comparison between relational and NoSQL database models. You will describe the characteristics and structure of relational databases, including tables, rows, and SQL (Structured Query Language). Additionally, you will explain the principles of NoSQL databases, discussing various types such as document-based, key-value, and graph databases, and when they are most suitable for web applications.
+
+Instructions:
+Please complete the following tasks to demonstrate your understanding of relational and NoSQL database models:
+
+Task 1: Relational Databases (20 points)
+Describe the characteristics and structure of relational databases, including tables, rows, and SQL:
+
+Explain what a relational database is and how it organizes data.
+Describe the concept of tables in a relational database.
+Explain how tables are used to store structured data.
+Discuss the role of rows and columns within a table.
+Explain how rows and columns are used to represent and store data.
+Introduce SQL (Structured Query Language):
+Explain what SQL is and its significance in relational databases.
+Provide examples of common SQL operations (e.g., SELECT, INSERT, UPDATE, DELETE).
+Task 2: NoSQL Databases (25 points)
+Explain the principles of NoSQL databases, discussing various types and their suitability for web applications:
+
+Define NoSQL databases and their key characteristics.
+Discuss the flexibility and schema-less nature of NoSQL databases.
+Describe the following types of NoSQL databases:
+Document-based databases
+Key-value databases
+Graph databases
+Column-family databases (optional)
+Explain when each type of NoSQL database is most suitable for web applications. Provide real-world use cases for each type.
+Task 3: Comparison (15 points)
+Compare and contrast relational and NoSQL databases:
+
+Discuss the advantages and disadvantages of each database model.
+Explain scenarios where a relational database might be a better choice for a web application.
+Explain scenarios where a NoSQL database might be a better choice for a web application.
+Provide examples of popular relational and NoSQL database management systems (DBMS).
+Submission Guidelines:
+
+Write your responses in a clear and organized manner.
+Use proper grammar and spelling.
+Include relevant examples or references as needed to support your explanations.
+Submit your assignment as a PDF document or a Word document.
+Ensure your assignment is well-structured with clear headings for each task.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and depth of explanations (50 points)
+Clarity and organization of your responses (20 points)
+Inclusion of relevant examples or references (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (10 points)

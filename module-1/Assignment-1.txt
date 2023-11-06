@@ -1,0 +1,55 @@
+How the Web Works
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will dive into the fundamental concepts that underpin the World Wide Web and gain a deep understanding of how web technologies function. You will explore key components such as HTTP (Hypertext Transfer Protocol), web browsers, and web servers. Additionally, you will learn about the request-response cycle in web communication and how browsers render web pages.
+
+Instructions:
+Please complete the following tasks to demonstrate your understanding of web technologies:
+
+Task 1: Key Components of the World Wide Web (15 points)
+Explain the following key components of the World Wide Web:
+
+HTTP (Hypertext Transfer Protocol)
+
+Describe what HTTP is and its primary purpose in web communication.
+Explain the difference between HTTP and HTTPS.
+Web Browsers
+
+List and briefly describe at least three popular web browsers.
+Discuss the role of web browsers in accessing and displaying web content.
+Web Servers
+
+Define what a web server is and its primary function in the web ecosystem.
+Explain the concept of web hosting and how it relates to web servers.
+Task 2: The Request-Response Cycle (20 points)
+Describe the request-response cycle in web communication:
+
+Explain what happens when a user enters a URL in a web browser.
+Outline the steps involved in a typical HTTP request from a client to a server.
+Describe the elements of an HTTP response from the server to the client.
+Discuss the importance of status codes in the response.
+Task 3: Browser Rendering (15 points)
+Explain how web browsers render web pages:
+
+Describe the role of HTML, CSS, and JavaScript in web page rendering.
+Discuss the Document Object Model (DOM) and its significance in web development.
+Explain the process of parsing and rendering a web page by a browser.
+Submission Guidelines:
+
+Write your responses in a clear and organized manner.
+Use proper grammar and spelling.
+You may include diagrams, examples, or references as needed to support your explanations.
+Submit your assignment as a PDF document or a Word document.
+Make sure your assignment is well-structured with clear headings for each task.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and depth of explanations (50 points)
+Clarity and organization of your responses (20 points)
+Inclusion of relevant examples or references (10 points)
+Adherence to submission guidelines (10 points)
+Overall presentation and professionalism (10 points)

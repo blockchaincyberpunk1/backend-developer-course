@@ -1,0 +1,40 @@
+Implementing Caching
+
+Course: Backend Developer Course
+
+Assignment Deadline: [Insert Deadline]
+
+Assignment Overview:
+In this assignment, you will gain hands-on experience in implementing caching in a web application. The objective is to choose a web application scenario (e.g., an e-commerce site) and identify specific data or content that can benefit from caching. You will then implement caching for the selected data or content within your chosen back-end framework. Code examples and explanations are required to demonstrate your understanding.
+
+Instructions:
+Please complete the following tasks to implement caching in a web application:
+
+Task 1: Web Application Scenario Selection (10 points)
+Choose a web application scenario for which you will implement caching. Examples include e-commerce sites, news websites, or social media platforms. Identify specific data or content within the chosen scenario that can benefit from caching.
+
+Task 2: Caching Implementation (60 points)
+Implement caching for the selected data or content within your chosen back-end framework. Be sure to provide code examples and explanations for each step of the implementation process. Your implementation should include:
+
+Configuration of caching settings in your back-end framework.
+Code snippets demonstrating how data/content is cached and retrieved.
+Any relevant caching policies or rules.
+Task 3: Presentation (10 points)
+Organize your caching implementation code and explanations into a clear and well-structured document. Ensure that your assignment is free of grammatical and spelling errors.
+
+Task 4: Testing and Validation (20 points)
+Test your caching implementation to ensure that it functions as intended. Provide evidence of testing and validation, including any test cases or scenarios used and their outcomes.
+
+Submission Guidelines:
+
+Compile your caching implementation code, explanations, and testing details into a document (PDF or Word).
+Include any relevant references or sources you consulted during your implementation.
+Submit your assignment as a document.
+Grading Rubric:
+Your assignment will be graded based on the following criteria:
+
+Quality and completeness of caching implementation (60 points)
+Clarity and effectiveness of code examples and explanations (20 points)
+Organization and presentation of the assignment (10 points)
+Testing and validation of the caching implementation (20 points)
+Adherence to submission guidelines (10 points)
